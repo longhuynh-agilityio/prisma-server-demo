@@ -2,9 +2,13 @@
 
 1. Install dependencies
   `npm install`
-2. Start docker
+2. Install prisma
+`npm install -g prisma`
+3. Start docker
   `docker-compose up -d`
-3. Start graphql server
+4. Deploy prisma
+`npm start`
+5. Start graphql server
   `npm start`
 
 - graphql playground: http://localhost:4000
