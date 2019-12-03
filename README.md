@@ -12,4 +12,4 @@
   `npm start`
 
 - graphql playground: http://localhost:4000
-- database: http://localhost:4000/_admin
+- database: http://localhost:4466/_admin
